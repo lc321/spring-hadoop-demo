@@ -24,7 +24,7 @@ import com.test.config.HdfsProperties;
  * @Description: 上传文件到hdfs
  * @author lc
  * @version V1.0
- * @Date 2017年11月24日 下午3:52:53
+ * @Date 2019年8月22日 下午3:52:53
  */
 public class HdfsUtil {
 
